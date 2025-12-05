@@ -59,3 +59,10 @@ Git me ayudó a organizar el trabajo como Scrum organiza el desarrollo.
 Cada commit representó una actividad concreta dentro de un sprint, permitiendo llevar un control claro del progreso, detectar problemas y mantener orden en cada etapa del proyecto.  
 El uso de ramas como *documentacion* facilitó separar el desarrollo técnico de la documentación sin causar conflictos.
 
+## Commit: Implementación del módulo principal
+Actividad Scrum: Desarrollo del Sprint
+Descripción: Se programó la función principal del sistema.
+
+## Commit: Diseño inicial del proyecto
+Actividad relacionada: Planificación
+Descripción: Se creó la estructura base y se organizó el plan del proyecto.
